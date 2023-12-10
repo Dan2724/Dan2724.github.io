@@ -1,10 +1,10 @@
 body,h1,h2,h3,h4,h5,h6 {font-family: "Courier New", monospace}
-.w3-bar,h1,button {font-family: "Lucidia", monospace}
+.w3-bar,h1,button {font-family: "Courier New", monospace}
 .fa-anchor,.fa-coffee {font-size:200px}
 .ascii-art {
     font-family: monospace;
     white-space: pre;
-    font-size: 20px;
+    font-size: 40px;
     font-size: 1vw;
 }
 hr {
@@ -27,8 +27,14 @@ hr {
     color:#FFFFFF!important;background-color:#362222!important;border-color:#000000!important
 }
 .uplink-quote {
-    font-family: monospace;
+    font-family: "Lucidia", monospace;
     font-style: italic;
     font-size: 25px;
     padding-top: 50px;
+}
+.ul-horiz {
+    font-size: 100%;
+    color: #ff9fa3;
+    background-color: #362222;
+    padding: 0px;
 }
